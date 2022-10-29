@@ -5,3 +5,6 @@ datos login:
 
 email: deivyvalenciaa@gmail.com
 password: 1234
+
+
+La base de datos es el archivo: "laravel1 (1).sql"
