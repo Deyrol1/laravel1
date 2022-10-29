@@ -1,0 +1,7 @@
+Se debe abrir la consola y escribir 
+"php artisan serve" y aceder al url con login
+
+datos login:
+
+email: deivyvalenciaa@gmail.com
+password: 1234
